@@ -1,2 +1,2 @@
 # Python Basic
-Repositório do básico ao avançado
+Treinamento de Python - do básico ao avançado
