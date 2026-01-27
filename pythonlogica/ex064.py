@@ -1,0 +1,10 @@
+times = ('Flamengo', 'Palmeiras', 'Cruzeiro', 'Mirassol', 'Fluminense', 'Botafogo', 'Bahia', 'São Paulo', 'Grêmio', 'Bragantino', 'Santos')
+
+print('=-' * 30)
+print(f'Os 5 primeiros colocados são {times[:5]}')
+print('=-' * 30)
+print(f'Os últimos quatro colocados da tabela são {times[7:]}')
+print('=-' * 30)
+print(f'Organizado em ordem alfabetica {sorted(times)}')
+print('=-' * 30)
+print(f'Botafogo tá na posição {times.index('Botafogo')+1}')
