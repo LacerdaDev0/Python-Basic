@@ -8,5 +8,7 @@ Algoritmos e Lógica de Programação, utilizando Python.
 - Estruturas condicionais
 - Estruturas de repetição
 - Lógica básica
+- Função
+- Listas, tuplas e dicionários
 
  Objetivo: praticar lógica e consolidar fundamentos de programação.
